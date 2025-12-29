@@ -45,7 +45,7 @@ Full-stack Next.js application with role-based access control for admins, teache
 - **Impact:** Digital transformation for Wings Academy
 - **Features:** PDF storage, custom authentication, role-based dashboards
 
-### 📺 [Enhanced YouTube Clone Backend](https://github.com/amitgupta3110/youtube-backend)
+### 📺 [Streamly - Enhanced Video Streaming Platform](https://github.com/amitgupta3110/Streamly)
 Comprehensive video platform REST APIs supporting large-scale video uploads
 - **Tech:** Express.js, MongoDB, Cloudinary
 - **Features:** JWT authentication, 1GB video uploads, social engagement features
@@ -102,3 +102,4 @@ Comprehensive video platform REST APIs supporting large-scale video uploads
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amitgupta3110&color=blueviolet&style=flat-square)
+
