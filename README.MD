@@ -1,6 +1,6 @@
 # Hi there, I'm Amit Kumar Gupta 👋
 
-### 🎓 Electrical Engineering Student | 💻 Full-Stack Developer | 🚀 Problem Solver
+### 🎓 B.Tech Undergrad | 💻 Full-Stack Developer | 🚀 Problem Solver
 
 I'm a B.Tech student at **B.I.T. Sindri** with a passion for building scalable web applications and solving complex problems.
 
@@ -102,4 +102,5 @@ Comprehensive video platform REST APIs supporting large-scale video uploads
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amitgupta3110&color=blueviolet&style=flat-square)
+
 
